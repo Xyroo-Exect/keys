@@ -95,6 +95,16 @@
         }
       ],
       "created_at": "2026-08-15T16:15:49.837Z"
+    },
+    {
+      "key": "XP-2587B5-1E10BD-BA295E",
+      "telegram_id": "",
+      "status": "active",
+      "role": "premium",
+      "device_limit": 1,
+      "expires_at": "+029405-09-09T19:43:18.767Z",
+      "devices": [],
+      "created_at": "2026-08-15T19:43:18.767Z"
     }
   ]
 }
