@@ -10,6 +10,16 @@
       "expires_at": "2026-09-14T14:18:24.269Z",
       "devices": [],
       "created_at": "2026-08-15T14:18:24.269Z"
+    },
+    {
+      "key": "XP-431A68-470A8C-4CD94D",
+      "telegram_id": "7653743981",
+      "status": "active",
+      "role": "free",
+      "device_limit": 1,
+      "expires_at": "2026-08-22T14:21:03.979Z",
+      "devices": [],
+      "created_at": "2026-08-15T14:21:03.979Z"
     }
   ]
 }
