@@ -103,16 +103,7 @@
       "role": "premium",
       "device_limit": 1,
       "expires_at": "+029405-09-09T19:43:18.767Z",
-      "devices": [
-        {
-          "device_id": "23b6c19c75fa405c",
-          "first_login": "2026-08-16T07:28:44.786Z",
-          "brand": "TECNO",
-          "model": "TECNO KM4",
-          "android_version": "15",
-          "last_login": "2026-08-16T09:16:22.151Z"
-        }
-      ],
+      "devices": [],
       "created_at": "2026-08-15T19:43:18.767Z"
     }
   ]
